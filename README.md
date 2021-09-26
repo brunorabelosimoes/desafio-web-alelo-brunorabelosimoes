@@ -2,7 +2,7 @@
 
 <b><h2>Elaborado os testes de automação abaixo:</h2></b>
 
-1 - No site dos correios, pesquisar um CEP e dar output das informações retornadas.
+1 - No site dos correios, pesquisar um CEP e dar output das informações retornadas. <br>
 2 - No site dos correios, pesquisar um logradouro que retorne mais de um resultado e dar output de todos os dados da tabela retornada.
 
 ##
